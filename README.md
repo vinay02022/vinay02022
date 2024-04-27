@@ -9,13 +9,15 @@
   
 </h1>  
 <strong>
-    <li>👋 Hi, I’m Vinay Pandey , I am Software Er.</li>
-    <li>👀 I’m interested in Tech, Entrepreneurship.</li>
-    <li>🌱 I Love Shipping Features and Enhance Products Quality .</li>
-   <li> 🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Advance Backend </li>
-   <li>👯 Open to 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack Projects </li>
-   <li>Love to Build Products from 0 to 1 </li>
-
+    <li>-👋 Hi, I’m Vinay Pandey , I am Software Er.</li>
+    <li>-👀 I’m interested in Tech, Entrepreneurship.</li>
+    <li>-🌱 I Love Shipping Features and Enhance Products Quality .</li>
+   <li>-🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Advance Backend </li>
+ <li>-👨‍💻 All of my projects are available at <a href= "https://www.crio.do/learn/portfolio/vinay-pandey-criodo/"> PORTFOLIO </a></li>
+<li>-📝 I write Tech articles on <a href= "https://medium.com/@techievinay01">Medium</a></li>
+<li>-💬 Talk to me about **Frontend Development , Backend Development ,Entrepreneurship .**</li>
+   <li>-👯 Open to 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack Projects </li>
+   <li>-Love to Build Products from 0 to 1 </li>
   </strong> 
 
 💞️ I’m looking to Join an Organisation where I can challenge myself Every day Build What really matters & skill up By Working On projects , help Users,and Contributing in the Business Growth.
@@ -52,10 +54,14 @@
   <br>
   <br>
   <br>
-  <p><img align="center" width="500" heigth="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-pandey-b16449171&" alt="Vinay Pandey" /></p>
- <i class="fa-brands fa-medium"></i></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay02022" alt="vinay02022" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/princep13855622" target="blank"><img src="https://img.shields.io/twitter/follow/princep13855622?logo=twitter&style=for-the-badge" alt="princep13855622" /></a> </p>
+ 
   <br>
  <hr>
+ <br>
  
 
 ## Some More Stats
