@@ -46,6 +46,7 @@
   <br>
   <br>
   ## Streak and Competetive Record
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay02022&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
   ![Leetcode Stats](https://leetcode.card.workers.dev/?username=VinayPandey022&theme=dark&show_rank=False)
   <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-pandey-b16449171&" alt="Vinay Pandey" /></p>
