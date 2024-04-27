@@ -26,16 +26,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaypandey022&label=Profile%20views&color=0e75b6&style=flat" alt="vinaypandey" /> </p>
 
-
-   
-  
-
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/princep13855622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princep13855622" height="30" width="40" /></a>
@@ -52,12 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay02022&show_icons=true&locale=en" alt="vinay02022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay02022&" alt="vinay02022" /></p>
-
-  
   <hr>
- 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimalim77&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
   <br>
   <br>
   ## Streak and Competetive Record
