@@ -10,11 +10,11 @@
 </h1>  
 <strong>
     <li>👋 Hi, I’m Vinay Pandey , I am Software Er.</li>
-    <li>👀 I’m interested in Tech, Entrepreneurship, and Problem Solving.</li>
-    <li>🌱 I Love Shipping Features and Enhance Product Quality .</li>
-  <li> 🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Advance Backend </li>
-  <li>👯 Open to 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack Projects </li>
-  <li>Love to Build Product from 0 to 1 </li>
+    <li>👀 I’m interested in Tech, Entrepreneurship.</li>
+    <li>🌱 I Love Shipping Features and Enhance Products Quality .</li>
+   <li> 🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Advance Backend </li>
+   <li>👯 Open to 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack Projects </li>
+   <li>Love to Build Products from 0 to 1 </li>
 
   </strong> 
 
