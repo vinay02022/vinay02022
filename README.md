@@ -13,7 +13,7 @@
   <li>-👀 I’m interested in Tech, Entrepreneurship.</li>
   <li>-🌱 I Love Shipping Features and Enhance Products Quality .</li>
   <li>-🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 Advance Backend </li>
-  <li>-👨‍💻 All of my projects are available at <a href="vinaypandey.vercel.app"> PORTFOLIO </a></li>
+  <li>-👨‍💻 All of my projects are available at <a href="https://vinaypandey.vercel.app/"> PORTFOLIO </a></li>
   <li>-📝 I write Tech articles on <a href="https://medium.com/@techievinay01">Medium</a></li>
   <li>-💬 Talk to me about **Frontend Development , Backend Development ,Entrepreneurship .**</li>
   <li>-👯 Open to 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 Full Stack Projects </li>
