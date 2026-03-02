@@ -27,7 +27,7 @@ Full Stack Developer with 2+ years of hands-on experience building production-gr
 - **Writing** technical deep-dives on [Medium](https://medium.com/@techievinay01)
 - **Open to** full-time roles, collaborations & interesting side projects
 
-<a href="https://drive.google.com/file/d/1VQmcfl4iFS67LfBvMch2G5EblMI4W15m/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1EmwdCZSJCoECBovBzJ7b76bsXwpzqkBG/view?usp=drive_link">
   <img src="https://img.shields.io/badge/Resume-Download-3B82F6?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
